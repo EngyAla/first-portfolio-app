@@ -73,7 +73,7 @@ function Projects(){
                                 }
                             </Row>
                         </Tab.Pane>
-                        <Tab.Pane eventKey="second"><Contact /></Tab.Pane>
+                        <Tab.Pane eventKey="second"></Tab.Pane>
                         <Tab.Pane eventKey="third"><p>My name is Engy, I live in masoura. This my proj in react Dev...</p></Tab.Pane>
                     </Tab.Content>
                 </Tab.Container>    
